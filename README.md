@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with - oncologist
 - 💬 Ask me about - RNA-seq and scRNA-seq
 - 🥅 2020 Goal - continue my effort on precision cancer medicine 
-- ⚡ Fun fact - MTAP gene is key effector on bladder cancer, but might not on NSCLC
+- ⚡ Fun fact - MTAP gene is one of key effectors on bladder cancer, but might not on NSCLC
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
