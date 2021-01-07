@@ -1,4 +1,4 @@
-### Hi, I'm Xinqiao <img src="https://Xinqiao77.github.io/hsa00270_hmap2.png" width="25px">
+### Hi, I'm Xinqiao <img src="https://Xinqiao77.github.io/IMG_1694.JPG" width="25px">
 [![Website](https://assisi.care)]
 ## Your short description
 - 🔭 I’m currently working on - AssisiCare
