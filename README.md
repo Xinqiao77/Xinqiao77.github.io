@@ -1,4 +1,4 @@
-### Hi, I'm Xinqiao <img src="https://Xinqiao77.github.io/IMG_1694.JPG" width="25px">
+### This is a GitHub repository!<img src="https://Xinqiao77.github.io/IMG_1694.JPG" width="25px">
 [!https://assisi.care]
 ## Your short description
 - 🔭 I’m currently working on - AssisiCare
